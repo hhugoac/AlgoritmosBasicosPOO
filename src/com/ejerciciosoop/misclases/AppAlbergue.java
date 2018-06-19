@@ -1,7 +1,7 @@
 package com.ejerciciosoop.misclases;
 import com.ejerciciosoop.misclases.Mascota;
 import java.util.Scanner;
-
+//subida a git
 public class AppAlbergue {
 
 	public static void main(String[] args) {
